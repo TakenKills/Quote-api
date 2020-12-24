@@ -21,5 +21,7 @@ const randomN = (quoteArray, n) => {
 };
 
 const randomTen = () => randomN(quotes, 10);
+console.log(randomQuote)
 
-module.exports = { quotes, randomQuote, randomTen };
+exports.randomQuote = randomQuote;
+exports.randomTen = randomTen;
