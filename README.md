@@ -2,7 +2,7 @@
 This is a npm package that gets random quots!
 
 # installation
-`npm i []`
+`npm i Quote-api`
 
 # How to use :
 ```
