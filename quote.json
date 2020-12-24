@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "quote": "I have no special talent. I am only passionately curious",
+        "by": "Albert Einstein"
+    },
+    {
+        "id": 2,
+        "quote": "Wisely, and slow. They stumble that run fast",
+        "by": "William Shakespeare"
+    },
+    {
+        "id": 3,
+        "quote": "If you judge people, you have no time to love them",
+        "by": "Mother Teresa"
+    },
+    {
+        "id": 4,
+        "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect",
+        "by": "Mark Twain"
+    },
+    {
+        "id": 5,
+        "quote": "All that we are is the result of what we have thought.",
+        "by": "Buddha"
+    },
+    {
+        "id": 6,
+        "quote": "The most courageous act is still to think for yourself. Aloud.",
+        "by": "Coco Chanel"
+    },
+    {
+        "id": 7,
+        "quote": "Stay hungry, stay foolish",
+        "by": "Steve Jobs"
+    },
+    {
+        "id": 8,
+        "quote": "Insanity: doing the same thing over and over again and expecting different results",
+        "by": "Albert Einstein"
+    },
+    {
+        "id": 9,
+        "quote": "The greatest wealth is to live content with little.",
+        "by": "Plato"
+    },
+    {
+        "id": 10,
+        "quote": "The future belongs to those who prepare for it today",
+        "by": "Malcom X"
+    },
+    {
+        "id": 11,
+        "quote": "The successful warrior is the average man, with laser-like focus.",
+        "by": "Bruce Lee"
+    },
+    {
+        "id": 12,
+        "quote": "Those who dare to fail miserably can achieve greatly",
+        "by": "John F. Kennedy"
+    }
+]
