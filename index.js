@@ -20,8 +20,12 @@ const randomN = (quoteArray, n) => {
   });
 };
 
-const randomTen = () => randomN(quotes, 10);
-console.log(randomQuote)
+const randomTen = () => randomN(quotes.filter(quotes => quotes.quote), 10);
 
+const getbyby = (name ,n) => randomN(quotes.filter(quote => quote.by === name), n)
+
+
+exports.randomn = randomN;
+exports.getbyby = getbyby;
 exports.randomQuote = randomQuote;
 exports.randomTen = randomTen;
