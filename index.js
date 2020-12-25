@@ -1,7 +1,7 @@
 const quotes = require('./quote.json')
 
 const randomQuote = () => {
-  return quotes[Math.floor(Math.random() * quotes.length)];
+  quotes[Math.floor(Math.random() * quotes.length)];
 }
 
 const randomN = (quoteArray, n) => {
@@ -23,7 +23,6 @@ const randomN = (quoteArray, n) => {
 const randomTen = () => randomN(quotes.filter(quotes => quotes.quote), 10);
 
 const getbyby = (name ,n) => randomN(quotes.filter(quote => quote.by === name), n)
-
 
 exports.randomn = randomN;
 exports.getbyby = getbyby;
