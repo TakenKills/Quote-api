@@ -2,406 +2,756 @@
     {
         "id": 1,
         "quote": "I have no special talent. I am only passionately curious",
-        "by": "Albert Einstein"
+        "author": "Albert Einstein"
     },
     {
         "id": 2,
         "quote": "Wisely, and slow. They stumble that run fast",
-        "by": "William Shakespeare"
+        "author": "William Shakespeare"
     },
     {
         "id": 3,
         "quote": "If you judge people, you have no time to love them",
-        "by": "Mother Teresa"
+        "author": "Mother Teresa"
     },
     {
         "id": 4,
         "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect",
-        "by": "Mark Twain"
+        "author": "Mark Twain"
     },
     {
         "id": 5,
         "quote": "All that we are is the result of what we have thought.",
-        "by": "Buddha"
+        "author": "Buddha"
     },
     {
         "id": 6,
         "quote": "The most courageous act is still to think for yourself. Aloud.",
-        "by": "Coco Chanel"
+        "author": "Coco Chanel"
     },
     {
         "id": 7,
         "quote": "Stay hungry, stay foolish",
-        "by": "Steve Jobs"
+        "author": "Steve Jobs"
     },
     {
         "id": 8,
         "quote": "Insanity: doing the same thing over and over again and expecting different results",
-        "by": "Albert Einstein"
+        "author": "Albert Einstein"
     },
     {
         "id": 9,
         "quote": "The greatest wealth is to live content with little.",
-        "by": "Plato"
+        "author": "Plato"
     },
     {
         "id": 10,
         "quote": "The future belongs to those who prepare for it today",
-        "by": "Malcom X"
+        "author": "Malcom X"
     },
     {
         "id": 11,
         "quote": "The successful warrior is the average man, with laser-like focus.",
-        "by": "Bruce Lee"
+        "author": "Bruce Lee"
     },
     {
         "id": 12,
         "quote": "Those who dare to fail miserably can achieve greatly",
-        "by": "John F. Kennedy"
+        "author": "John F. Kennedy"
     },
     {
         "id": 13,
         "quote": "A great man is always willing to be little.",
-        "by": "Ralph Waldo Emerson"
+        "author": "Ralph Waldo Emerson"
     },
     {
         "id": 14,
         "quote": "Don’t count the days, make the days count.",
-        "by": "Muhammad Ali"
+        "author": "Muhammad Ali"
     },
     {
         "id": 15,
         "quote": "In order to be irreplaceable one must always be different.",
-        "by": "Coco Chanel"
+        "author": "Coco Chanel"
     },
     {
         "id": 16,
         "quote": "Be kind whenever possible. It is always possible.",
-        "by": "Dalai Lama"
+        "author": "Dalai Lama"
     },
     {
         "id": 17,
         "quote": "I like criticism. It makes you strong.",
-        "by": "LeBron James"
+        "author": "LeBron James"
     },
     {
         "id": 18,
         "quote": "Well done is better than well said.",
-        "by": "Benjamin Franklin"
+        "author": "Benjamin Franklin"
     },
     {
         "id": 19,
         "quote": "The root of suffering is attachment",
-        "by": "Buddha"
+        "author": "Buddha"
     },
     {
         "id": 20,
         "quote": "Keep calm and carry on",
-        "by": "Winston Churchill"
+        "author": "Winston Churchill"
     },
     {
         "id": 21,
         "quote": "I came, I saw, I conquered.",
-        "by": "Julius Caesar"
+        "author": "Julius Caesar"
     },
     {
         "id": 22,
         "quote": "I think, therefore I am.",
-        "by": "René Descartes"
+        "author": "René Descartes"
     },
     {
         "id": 23,
         "quote": "To be, or not to be, that is the question.",
-        "by": "William Shakespeare"
+        "author": "William Shakespeare"
     },
     {
         "id": 24,
         "quote": "That’s one small step for a man, one giant leap for mankind.",
-        "by": "Neil Armstrong"
+        "author": "Neil Armstrong"
     },
     {
         "id": 25,
         "quote": "Ask not what your country can do for you, but what you can do for your country.",
-        "by": "John F. Kennedy"
+        "author": "John F. Kennedy"
     },
     {
         "id": 26,
         "quote": "The future belongs to those who believe in the beauty of their dreams.",
-        "by": "Eleanor Roosevelt"
+        "author": "Eleanor Roosevelt"
     },
     {
         "id": 27,
         "quote": "Early to bed and early to rise makes a man healthy, wealthy, and wise.",
-        "by": "Benjamin Franklin"
+        "author": "Benjamin Franklin"
     },
     {
         "id": 28,
         "quote": "Family is the most important thing in the world.",
-        "by" : "Diana, Princess of Wales"
+        "author" : "Diana, Princess of Wales"
     },
     {
         "id": 29,
         "quote": "All I was doing was trying to get home from work.",
-        "by" : "Rosa Parks"
+        "author" : "Rosa Parks"
     },
     {
         "id": 30,
         "quote": "It is not in the stars to hold our destiny but in ourselves.",
-        "by" : "William Shakespeare"
+        "author" : "William Shakespeare"
     },
     {
         "id": 31,
         "quote": "The journey of a thousand miles begins with one step.",
-        "by" : "Lao Tzu"
+        "author" : "Lao Tzu"
     },
     {
         "id": 32,
         "quote": "I’ve failed over and over and over again in my life and that is why I succeed.",
-        "by" : "Michael Jordan"
+        "author" : "Michael Jordan"
     },
     {
         "id": 33,
         "quote": "Float like a butterfly, sting like a bee.",
-        "by" : "Muhammad Ali"
+        "author" : "Muhammad Ali"
     },
     {
         "id": 34,
         "quote": "That which does not kill us makes us stronger.",
-        "by" : "Friedrich Nietzsche"
+        "author" : "Friedrich Nietzsche"
     },
     {
         "id": 35,
         "quote": "Nonviolence is a weapon of the strong.",
-        "by" : "Mahatma Gandhi"
+        "author" : "Mahatma Gandhi"
     },
     {
         "id": 36,
         "quote": "It does not matter how slowly you go so long as you do not stop.",
-        "by" : "Confucius"
+        "author" : "Confucius"
     },
     {
         "id": 37,
         "quote": "Not how long, but how well you have lived is the main thing.",
-        "by" : "Seneca"
+        "author" : "Seneca"
     },
     {
         "id": 38,
         "quote": "It’s not whether you get knocked down, it’s whether you get up.",
-        "by" : "Vince Lombardi"
+        "author" : "Vince Lombardi"
     },
     {
         "id": 39,
         "quote": "You miss 100 percent of the shots you never take.",
-        "by" : "Wayne Gretzky"
+        "author" : "Wayne Gretzky"
     },
     {
         "id": 40,
         "quote": "Peace begins with a smile.",
-        "by" : "Mother Teresa"
+        "author" : "Mother Teresa"
     },
     {
         "id": 41,
         "quote": "You only live once, but if you do it right, once is enough.",
-        "by": "Mae West"
+        "author": "Mae West"
     },
     {
         "id": 42,
         "quote": "The only thing that interferes with my learning is my education.",
-        "by": "Albert Einstein"
+        "author": "Albert Einstein"
     },
     {
         "id": 43,
         "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-        "by": "Henry David Thoreau"
+        "author": "Henry David Thoreau"
     },
     {
         "id": 44,
         "quote": "Life is either a daring adventure, or nothing.",
-        "by": "Helen Keller"
+        "author": "Helen Keller"
     },
     {
         "id": 44,
         "quote": "Education is the most powerful weapon which you can use to change the world.",
-        "by": "Nelson Mandela"
+        "author": "Nelson Mandela"
     },
     {
         "id": 45,
         "quote": "Good artists copy, great artists steal.",
-        "by": "Pablo Picasso"
+        "author": "Pablo Picasso"
     },
     {
         "id": 46,
         "quote": "Genius is one percent inspiration, ninety-nine percent perspiration.",
-        "by": "Thomas A. Edison"
+        "author": "Thomas A. Edison"
     },
     {
         "id": 47,
         "quote": "If you think you can do a thing or think you can’t do a thing, you’re right.",
-        "by": "Henry Ford"
+        "author": "Henry Ford"
     },
     {
         "id": 48,
         "quote": "Better to die standing than to live on your knees.",
-        "by": "Ernesto “Che” Guevara"
+        "author": "Ernesto “Che” Guevara"
     },
     {
         "id": 49,
         "quote": "Big Brother is watching you.",
-        "by": "George Orwell"
+        "author": "George Orwell"
     },
     {
         "id": 50,
         "quote": "It always seems impossible until it’s done.",
-        "by": "Nelson Mandela"
+        "author": "Nelson Mandela"
     },
     {
         "id": 51,
         "quote": "The unexamined life is not worth living.",
-        "by": "Socrates"
+        "author": "Socrates"
     },
     {
         "id": 52,
-        "quote": "Our life is frittered away by detail… simplify, simplify.",
-        "by": "Henry David Thoreau"
+        "quote": "Our life is frittered away author detail… simplify, simplify.",
+        "author": "Henry David Thoreau"
     },
     {
         "id": 53,
         "quote": "Try not to become a man of success but rather to become a man of value.",
-        "by": "Albert Einstein"
+        "author": "Albert Einstein"
     },
     {
         "id": 54,
         "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-        "by": "Mahatma Gandhi"
+        "author": "Mahatma Gandhi"
     },
     {
         "id": 55,
         "quote": "No matter who you are or what you look like, how you started off, or how and who you love, America is a place where you can write your own destiny.",
-        "by": "Barack Obama"
+        "author": "Barack Obama"
     },
     {
         "id": 56,
         "quote": "Turn your wounds into wisdom.",
-        "by": "Oprah Winfrey"
+        "author": "Oprah Winfrey"
     },
     {
         "id": 57,
         "quote": "I don’t think of all the misery but of the beauty that still remains.",
-        "by": "Anne Frank"
+        "author": "Anne Frank"
     },
     {
         "id": 58,
         "quote": "Life is a flower of which love is the honey.",
-        "by": "Victor Hugo"
+        "author": "Victor Hugo"
     },
     {
         "id": 59,
-        "quote": "Little by little, one travels far.",
-        "by": "J.R.R. Tolkien"
+        "quote": "Little author little, one travels far.",
+        "author": "J.R.R. Tolkien"
     },
     {
         "id": 60,
         "quote": "It’s not how much you have that makes people look up to you, it’s who you are.",
-        "by": "Elvis Presley"
+        "author": "Elvis Presley"
     },
     {
         "id": 61,
         "quote": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.",
-        "by":"Bruce Lee"
+        "author":"Bruce Lee"
     },
     {
         "id": 62,
         "quote": "A man who stands for nothing will fall for anything.",
-        "by":"Malcolm X"
+        "author":"Malcolm X"
     },
     {
         "id": 63,
         "quote": "You have power over your mind – not outside events. Realize this, and you will find strength.",
-        "by":"Marcus Aurelius"
+        "author":"Marcus Aurelius"
     },
     {
         "id": 64,
         "quote": "Do what you can, with what you have, where you are.",
-        "by":"Theodore Roosevelt"
+        "author":"Theodore Roosevelt"
     },
     {
         "id": 65,
         "quote": "Love all, trust a few, do wrong to none.",
-        "by":"William Shakespeare"
+        "author":"William Shakespeare"
     },
     {
         "id": 66,
         "quote": "I have a dream that one day little black boys and girls will be holding hands with little white boys and girls.",
-        "by":"Martin Luther King Jr"
+        "author":"Martin Luther King Jr"
     },
     {
         "id": 67,
         "quote": "Imperfection is beauty, madness is genius and it’s better to be absolutely ridiculous than absolutely boring.",
-        "by":"Marilyn Monroe"
+        "author":"Marilyn Monroe"
     },
     {
         "id": 68,
         "quote": "The path to success is to take massive, determined action.",
-        "by":"Tony Robbins"
+        "author":"Tony Robbins"
     },
     {
         "id": 69,
         "quote": "God helps those that help themselves.",
-        "by":"Benjamin Franklin"
+        "author":"Benjamin Franklin"
     },
     {
         "id": 70,
-        "quote": "By failing to prepare, you are preparing to fail.",
-        "by":"Benjamin Franklin"
+        "quote": "author failing to prepare, you are preparing to fail.",
+        "author":"Benjamin Franklin"
     },
     {
         "id": 71,
         "quote": "Genius is eternal patience.",
-        "by":"Michelangelo"
+        "author":"Michelangelo"
     },
     {
         "id": 72,
         "quote": "No.",
-        "by":"Rosa Parks"
+        "author":"Rosa Parks"
     },
     {
         "id": 73,
         "quote": "Fear is stupid. So are regrets.",
-        "by":"Marilyn Monroe"
+        "author":"Marilyn Monroe"
     },
     {
         "id": 74,
         "quote": "Do something worth remembering.",
-        "by":"Elvis Presley"
+        "author":"Elvis Presley"
     },
     {
         "id": 75,
         "quote": "Elegance is refusal.",
-        "by":"Coco Chanel"
+        "author":"Coco Chanel"
     },
     {
         "id": 76,
         "quote": "m not afraid of dying, I’m afraid of not trying.",
-        "by":"Jay-Z"
+        "author":"Jay-Z"
     },
     {
         "id": 77,
         "quote": "Whatever you are, be a good one.",
-        "by":"Abraham Lincoln"
+        "author":"Abraham Lincoln"
     },
     {
         "id": 78,
         "quote": "Puns are the highest form of literature.",
-        "by":"Alfred Hitchcock"
+        "author":"Alfred Hitchcock"
     },
     {
         "id": 79,
         "quote": "A boo is a lot louder than a cheer.",
-        "by":"Lance Armstrong"
+        "author":"Lance Armstrong"
     },
     {
         "id": 80,
         "quote": "Get busy living, or get busy dying.",
-        "by":"Stephen King"
+        "author":"Stephen King"
+    },
+    {
+        "id":  81,
+        "quote": "Be proud of who you are.",
+        "author": "Eminem"
+    },
+    {
+        "id":  82,
+        "quote": "Not all those who wander are lost.",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id":  83,
+        "quote": "Better to build a bridge than a wall",
+        "author": "Elton John"
+    },
+    {
+        "id":  84,
+        "quote": "Be the hero of your own story.",
+        "author": "Joe Rogan"
+    },
+    {
+        "id":  85,
+        "quote": "The only failure is not to try.",
+        "author": "George Clooney"
+    },
+    {
+        "id":  86,
+        "quote": "Nobody can hurt me without my permission.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "id":  87,
+        "quote": "I am the greatest, I said that even before I knew I was.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "id":  88,
+        "quote": "Winners never quit, and quitters never win.",
+        "author": "Vince Lombardi"
+    },
+    {
+        "id":  89,
+        "quote": "Whatever you do, do with all your might.",
+        "author": "Cicero"
+    },
+    {
+        "id":  90,
+        "quote": "Man – a being in search of meaning.",
+        "author": "Plato"
+    },
+    {
+        "id":  91,
+        "quote": "Your past does not equal your future.",
+        "author":"Tony Robbins"
+    },
+    {
+        "id":  92,
+        "quote": "Believe you can and you’re halfway there.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "id":  93,
+        "quote": "I don’t make music for eyes. I make music for ears.",
+        "author": "Adele"
+    },
+    {
+        "id":  94,
+        "quote": "Simplicity is the ultimate sophistication.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "id":  95,
+        "quote": "We need fantasy to survive reality.",
+        "author": "Lady Gaga"
+    },
+    {
+        "id":  96,
+        "quote": "It’s fun to do the impossible.",
+        "author": "Walt Disney"
+    },
+    {
+        "id":  97,
+        "quote": "Have no fear of perfection, you’ll never reach it.",
+        "author": "Salvador Dali"
+    },
+    {
+        "id":  98,
+        "quote": "What worries you, masters you.",
+        "author": "John Locke"
+    },
+    {
+        "id":  99,
+        "quote": "There is nothing impossible to him who will try.",
+        "author": "Alexander the Great"
+    },
+    {
+        "id":  100,
+        "quote": "The future starts today, not tomorrow.",
+        "author": "Pope John Paul II"
+    },
+    {
+        "id":  101,
+        "quote": "You are what you believe yourself to be.",
+        "author": "Paulo Coelho"
+    },
+    {
+        "id":  102,
+        "quote": "Stumbling is not falling.",
+        "author": "Malcolm X"
+    },
+    {
+        "id":  103,
+        "quote": "The best way to predict your future is to create it.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "id":  104,
+        "quote": "If not us, who? If not now, when?",
+        "author": "John F. Kennedy"
+    },
+    {
+        "id":  105,
+        "quote": "It is you, the young and fearless at heart, the most diverse and educated generation in our history, who the nation is waiting to follow.",
+        "author": "Barack Obama"
+    },
+    {
+        "id":  106,
+        "quote": "Doing the best at this moment puts you in the best place for the next moment.",
+        "author": "Oprah Winfrey"
+    },
+    {
+        "id":  107,
+        "quote": "When our memories outweigh our dreams, it is then that we become old.",
+        "author": "Bill Clinton"
+    },
+    {
+        "id":  108,
+        "quote": "We are all of us stars, and we deserve to twinkle.",
+        "author": "Marilyn Monroe"
+    },
+    {
+        "id":  109,
+        "quote": "For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.",
+        "author": "Audrey Hepburn"
+    },
+    {
+        "id":  110,
+        "quote": "I am basically a feminist. I think that women can do anything they decide to do.",
+        "author": "Grace Kelly"
+    },
+    {
+        "id": 111,
+        "quote": "Ambition is a dream with a V8 engine.",
+        "author": "Elvis Presley"
+    },
+    {
+        "id": 112,
+        "quote": "Do all the good you can, for all the people you can, in all the ways you can, as long as you can.",
+        "author": "Hillary Clinton"
+    },
+    {
+        "id": 113,
+        "quote": "Never doubt yourself. Never change who you are. Don’t care what people think and just go for it.",
+        "author": "Britney Spears"
+    },
+    {
+        "id": 114,
+        "quote": "Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. At the end of the day, you put all the work in, and eventually it’ll pay off. It could be in a year, it could be in 30 years. Eventually, your hard work will pay off.",
+        "author": "Kevin Hart"
+    },
+    {
+        "id": 115,
+        "quote": "Everything negative – pressure, challenges – is all an opportunity for me to rise.",
+        "author": "Kobe Bryant"
+    },
+    {
+        "id": 116,
+        "quote": "We don’t want to tell our dreams. We want to show them.",
+        "author": "Cristiano Ronaldo"
+    },
+    {
+        "id": 117,
+        "quote": "Impossible is just a big word thrown around by small men who find it easier to live in the world they’ve been given than to explore the power they have to change it. Impossible is not a fact. It’s an opinion. Impossible is not a declaration. It’s a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "id": 118,
+        "quote": "If people take anything from my music, it should be motivation to know that anything is possible as long as you keep working at it and don’t back down.",
+        "author": "Eminem"
+    },
+    {
+        "id": 119,
+        "quote": "Creativity is intelligence having fun.",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": 120,
+        "quote": "I just don’t want to be hampered by my own limitations.",
+        "author": "Barbra Streisand"
+    },
+    {
+        "id": 121,
+        "quote": "Those who say it can’t be done are usually interrupted by others doing it.",
+        "author": "James Baldwin"
+    },
+    {
+        "id": 122,
+        "quote": "Do what you have to do, to do what you want to do.",
+        "author": "Denzel Washington"
+    },
+    {
+        "id": 123,
+        "quote": "Power is not given to you. You have to take it.",
+        "author": "Beyoncé"
+    },
+    {
+        "id": 124,
+        "quote": "I have learned over the years that when one’s mind is made up, this diminishes fear; knowing what must be done does away with fear.",
+        "author": "Rosa Parks"
+    },
+    {
+        "id": 125,
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+    },
+    {
+        "id": 126,
+        "quote": "If I have seen further than others, it is by standing upon the shoulders of giants.",
+        "author": "Isaac Newton"
+    },
+    {
+        "id": 127,
+        "quote": "One day, in retrospect, the years of struggle will strike you as the most beautiful.",
+        "author": "Sigmund Freud"
+    },
+    {
+        "id": 128,
+        "quote": "Learn to value yourself, which means: to fight for your happiness.",
+        "author": "Ayn Rand"
+    },
+    {
+        "id": 129,
+        "quote": "You’ll never find a rainbow if you’re looking down.",
+        "author": "Charlie Chaplin"
+    },
+    {
+        "id": 130,
+        "quote": "I would like to die on Mars. Just not on impact.",
+        "author": "Elon Musk"
+    },
+    {
+        "id": 131,
+        "quote": "I don’t care what you think of me. I don’t think of you at all.",
+        "author": "Coco Chanel"
+    },
+    {
+        "id": 132,
+        "quote": "No man has a good enough memory to be a successful liar.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "id": 133,
+        "quote": "If you let your head get too big, it’ll break your neck.",
+        "author": "Elvis Presley"
+    },
+    {
+        "id": 134,
+        "quote": "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
+        "author": "Oprah Winfrey"
+    },
+    {
+        "id": 135,
+        "quote": "Fame is like caviar, you know — it’s good to have caviar but not when you have it at every meal.",
+        "author": "Marilyn Monroe"
+    },
+    {
+        "id": 136,
+        "quote": "I don’t have a short temper, I just have a quick reaction to bullshit.",
+        "author": "Elizabeth Taylor"
+    },
+    {
+        "id": 137,
+        "quote": "Those who believe in telekinetics, raise my hand.",
+        "author": "Kurt Vonnegut"
+    },
+    {
+        "id": 138,
+        "quote": "If you can’t convince them, confuse them.",
+        "author": "Harry S. Truman"
+    },
+    {
+        "id": 139,
+        "quote": "I have made this letter longer than usual because I lack the time to make it shorter.",
+        "author": "Blaise Pascal"
+    },
+    {
+        "id": 140,
+        "quote": "Always forgive your enemies; nothing annoys them so much.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id": 141,
+        "quote": "Always roll up the sleeves on your shirt. It gives the impression that you’re working, even if you’re not.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id": 142,
+        "quote": "The scruffier your beard, the sharper you need to dress.",
+        "author": "Ashton Kutcher"
+    },
+    {
+        "id": 143,
+        "quote": "The scruffier your beard, the sharper you need to dress.",
+        "author": "Ashton Kutcher"
+    },
+    {
+        "id": 144,
+        "quote": "The best things in life are free. The second best things are very expensive.",
+        "author": "Coco Chanel"
+    },
+    {
+        "id": 145,
+        "quote": "I am simple, complex, generous, selfish, unattractive, beautiful, lazy, and driven.",
+        "author": "Barbra Streisand"
+    },
+    {
+        "id": 146,
+        "quote": "Being president is like running a cemetery: you’ve got a lot of people under you and nobody’s listening.",
+        "author": "Bill Clinton"
+    },
+    {
+        "id": 147,
+        "quote": "We are all born ignorant, but one must work hard to remain stupid.",
+        "author": "Benjamin Franklin"
+    },
+    {
+        "id": 148,
+        "quote": "I became insane, with long intervals of horrible sanity.",
+        "author": "Edgar Allan Poe"
+    },
+    {
+        "id": 149,
+        "quote": "You laugh at me because I’m different I laugh at you because you’re all the same.",
+        "author": "Lady Gaga"
+    },
+    {
+        "id": 150,
+        "quote": "If you don’t have any shadows you’re not in the light.",
+        "author": "Lady Gaga"
     }
 ]

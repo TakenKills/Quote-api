@@ -6,31 +6,31 @@ This is a npm package that gets random quots!
 
 # How to use :
 ```
-const { randomQuote, getbyby, randomTen } = require('randomquote-api')
+const RandomQuoteApi = require('randomquote-api')
+// To get one random Quote you do
+const randomquoteapi = new RandomQuoteApi()
+const randomquote = randomquoteapi.randomQuote()
+console.log(randomquote)
 
+// to get Ten random quotes you do
+const randomTen = randomquoteapi.randomTen()
+console.log(randomTen)
 
-// to get everything e.g. (id : 1, quote: "some-quote", by: "some-person")
-console.log(randomQuote())
-```
-// to get the quote you do 
-console.log(randomQuote().quote)
-```
-// to get the the person who said the quote
-console.log(randomQuote().by)
-```
-```
-// to filter all the quotes by who wrote them
-console.log(getbyby(Coco Chanel, 5)); // (name, number) the name is the "by" value and the //// "number" is how many quotes you want to get
+// to get a number amount of quotes by who said them
+const randomQuote = new RandomQuoteApi()
+const getbyby = randomQuote.getbyby('J.R.R. Tolkien', 10)
+console.log(getbyby)
 ```
 
+## Stuck on [object Object] ? 
+try this mapping it!  
 ```
-//randomTen() gets 10 random qutoes for you.
-console.log(randomTen());
+const randomquoteapi = new RandomQuoteApi()
+const randomTen = randomquoteapi.randomTen()
+
+console.log(randomTen.map(q => q.quote).join("\n"))
 ```
-#*Stuck on [object Object]*?
-try to map them
-console.log(getbyby(CoCo Chanel, 5).map(q => q.quote));
-same goes for randomTen()
+this also works the same for the `getbyby()` function.
 
 ## Options
 For the quotes itself you can use 
@@ -38,6 +38,10 @@ For the quotes itself you can use
  - **by** : Get who wrote/said the quote.
  - **id** : Get the number of the quote.
 
-Options for the "getbyby()" function
+Options for the "getbyby(name, n)" function
  - **name** : the name of the person who wrote the quote.
  - **n** : the number of quotes you want.
+
+ ## Need any help?
+ Join my discord server!
+ https://discord.gg/Q34NvFVmwW
