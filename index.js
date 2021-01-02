@@ -30,9 +30,10 @@ class RandomQuoteApi {
 
     getbyauthor(name, n) {
          const getByAuthor = this.randomN(quotes.filter(quote => quote.author.toLowerCase() === name.toLowerCase()), n)
-        if(getByAuthor.length === 0) return console.log(`randomquote-api Couldn't find anyone with that name..`)
+        if(getByAuthor.length === 0)
+        throw new Error
+        (`randomquote-api Couldn't find anyone with that name..`)
         else return getByAuthor;
     }
 }
-
 module.exports = RandomQuoteApi;

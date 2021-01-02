@@ -1,4 +1,4 @@
-const RandomQuoteApi = require('./index.js')
+const asdas = require('./index.js')
 
-const a = new RandomQuoteApi()
+const a = new asdas()
 console.log(a.getbyauthor(`j.r.r. tOLkIeN`, 10))
