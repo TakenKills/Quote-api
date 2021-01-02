@@ -18,27 +18,27 @@ console.log(randomTen)
 
 // to get a number amount of quotes by who said them
 const randomQuote = new RandomQuoteApi()
-const getbyby = randomQuote.getbyby('J.R.R. Tolkien', 10)
-console.log(getbyby)
+const getbyauthor = randomQuote.getbyauthor('J.R.R. Tolkien', 10)
+console.log(getbyauthor)
 ```
 
 ## Stuck on [object Object] ? 
-try this mapping it!  
+try mapping it!  
 ```
 const randomquoteapi = new RandomQuoteApi()
 const randomTen = randomquoteapi.randomTen()
 
 console.log(randomTen.map(q => q.quote).join("\n"))
 ```
-this also works the same for the `getbyby()` function.
+this also works the same for the `getbyauthor()` function.
 
 ## Options
-For the quotes itself you can use 
+For the quotes itself you can use
  - **quote** : Get the quote.
  - **by** : Get who wrote/said the quote.
  - **id** : Get the number of the quote.
 
-Options for the "getbyby(name, n)" function
+Options for the "getbyauthor(name, n)" function
  - **name** : the name of the person who wrote the quote.
  - **n** : the number of quotes you want.
 
