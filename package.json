@@ -1,8 +1,8 @@
 {
   "name": "randomquote-api",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "description": "An api that gets random quotes.",
-  "main": "index.js",
+  "main": "./src/QuoteAPI/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
