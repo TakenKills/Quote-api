@@ -1,6 +1,6 @@
 {
   "name": "randomquote-api",
-  "version": "3.4.8",
+  "version": "3.4.9",
   "description": "An api that gets random quotes.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "famousequoteapi"
   ],
   "author": "TakenKills",
-  "license": "ISC",
+  "license": "UNLICENCED",
   "bugs": {
     "url": "https://github.com/TakenKills/Quote-api/issues"
   },
