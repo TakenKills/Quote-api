@@ -1,34 +1,38 @@
 # What is this?
-This is a npm package that gets random quots!
+This is a npm package that gets random quotes!
 
 # installation
 `npm i randomquote-api`
 
 # How to use :
 ```
-const RandomQuoteApi = require('randomquote-api')
+const Quotes = require('randomquote-api')
+
 // To get one random Quote you do
-const randomquoteapi = new RandomQuoteApi()
-const randomquote = randomquoteapi.randomQuote()
+
+const randomquote = Quotes.randomQuote();
 console.log(randomquote)
 
 // to get Ten random quotes you do
-const randomTen = randomquoteapi.randomTen()
+
+const randomTen = Quotes.randomTen()
 console.log(randomTen)
 
 // to get a number amount of quotes by who said them
-const randomQuote = new RandomQuoteApi()
-const getbyauthor = randomQuote.getbyauthor('J.R.R. Tolkien', 10)
+
+const getbyauthor = Quotes.getbyauthor('J.R.R. Tolkien', 10)
 console.log(getbyauthor)
+
 ```
 
 ## Stuck on [object Object] ? 
-try mapping it!  
+try mapping it!
 ```
-const randomquoteapi = new RandomQuoteApi()
-const randomTen = randomquoteapi.randomTen()
+const Quotes = require('randomquote-api')
+const randomTen = Quotes.randomTen()
 
 console.log(randomTen.map(q => q.quote).join("\n"))
+
 ```
 this also works the same for the `getbyauthor()` function.
 
