@@ -35,7 +35,7 @@ this also works the same for the `getbyauthor()` function.
 ## Options
 For the quotes itself you can use
  - **quote** : Get the quote.
- - **by** : Get who wrote/said the quote.
+ - **author** : Get who wrote/said the quote.
  - **id** : Get the number of the quote.
 
 Options for the "getbyauthor(name, n)" function
