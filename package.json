@@ -1,12 +1,11 @@
 {
   "name": "randomquote-api",
-  "version": "3.5.1",
+  "version": "3.5.2",
   "description": "An api that gets random quotes.",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node test/test.js"
+    "test": "node test/test.js",
   },
   "repository": {
     "type": "git",
