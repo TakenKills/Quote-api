@@ -3,6 +3,7 @@
   "version": "3.5.1",
   "description": "An api that gets random quotes.",
   "main": "./src/QuoteAPI/index.js",
+  "types": "./src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node test/test.js"
