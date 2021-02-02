@@ -1,6 +1,6 @@
 {
   "name": "randomquote-api",
-  "version": "3.5.2",
+  "version": "3.5.3",
   "description": "An api that gets random quotes.",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
