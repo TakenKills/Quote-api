@@ -753,5 +753,235 @@
         "id": 150,
         "quote": "If you don’t have any shadows you’re not in the light.",
         "author": "Lady Gaga"
+    },
+    {
+        "id": 151,
+        "quote": "Better a diamond with a flaw than a pebble without.",
+        "author": "Confucius"
+    },
+    {
+        "id": 152,
+        "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+        "author": "Bruce Lee"
+    },
+    {
+        "id": 153,
+        "quote": "Often it isn’t the mountains ahead that wear you out, it’s the little pebble in your shoe.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "id": 154,
+        "quote": "Truth is like the sun. You can shut it out for a time, but it ain’t goin’ away.",
+        "author": "Elvis Presley"
+    },
+    {
+        "id": 155,
+        "quote": "No one ever told me I was pretty when I was a little girl. All little girls should be told they’re pretty, even if they aren’t.",
+        "author": "Marilyn Monroe"
+    },
+    {
+        "id": 156,
+        "quote": "Your love makes me strong. Your hate makes me unstoppable.",
+        "author": "Cristiano Ronaldo"
+    },
+    {
+        "id": 157,
+        "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+        "author": "Mark Twain"
+    },
+    {
+        "id": 158,
+        "quote": "Nothing makes a woman more beautiful than the belief that she is beautiful.",
+        "author": "Sophia Loren"
+    },
+    {
+        "id": 159,
+        "quote": "A lion doesn’t concern himself with the opinions of the sheep.",
+        "author": "Lionel Messi"
+    },
+    {
+        "id": 160,
+        "quote": "My ruthless desire to win at all costs served me well on the bike but the level it went to, for whatever reason, is a flaw. That desire, that attitude, that arrogance.",
+        "author": "Lance Armstrong"
+    },
+    {
+        "id": 161,
+        "quote": "I’m for truth, no matter who tells it. I’m for justice, no matter who it’s for or against.",
+        "author": "Malcolm X"
+    },
+    {
+        "id": 162,
+        "quote": "Too often we enjoy the comfort of opinion without the discomfort of thought.",
+        "author": "John F. Kennedy"
+    },
+    {
+        "id": 163,
+        "quote": "It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.",
+        "author": "Julius Caesar"
+    },
+    {
+        "id": 164,
+        "quote": "Life is not a problem to be solved, but a reality to be experienced.",
+        "author": "Søren Kierkegaard"
+    },
+    {
+        "id": 165,
+        "quote": "I never thought of myself as being handsome or good-looking or whatever. I always felt like an outsider.",
+        "author": "Elton John"
+    },
+    {
+        "id": 166,
+        "quote": "Behind every successful person lies a pack of haters.",
+        "author": "Eminem"
+    },
+    {
+        "id": 167,
+        "quote": "Hurt me with the truth. Don’t comfort me with a lie.",
+        "author": "Rihanna"
+    },
+    {
+        "id": 168,
+        "quote": "It’s easy to fool the eye but it’s hard to fool the heart.",
+        "author": "Al Pacino"
+    },
+    {
+        "id": 169,
+        "quote": "If you can’t convince them, confuse them.",
+        "author": "Harry S. Truman"
+    },
+    {
+        "id": 170,
+        "quote": "It is our choices, that show what we truly are, far more than our abilities.",
+        "author": "J.K. Rowling (Harry Potter)"
+    },
+    {
+        "id": 171,
+        "quote": "Stand for something or you will fall for anything. Today’s mighty oak is yesterday’s nut that held its ground.",
+        "author": "Rosa Parks"
+    },
+    {
+        "id": 172,
+        "quote": "The truth will set you free, but first it will piss you off.",
+        "author": "Gloria Steinem"
+    },
+    {
+        "id": 173,
+        "quote": "Man was born free, and he is everywhere in chains.",
+        "author": "Jean-Jacques Rousseau"
+    },
+    {
+        "id": 174,
+        "quote": "Every man is guilty of all the good he did not do.",
+        "author": "Voltaire"
+    },
+    {
+        "id": 175,
+        "quote": "Wise men talk because they have something to say; fools, because they have to say something.",
+        "author": "Plato"
+    },
+    {
+        "id": 176,
+        "quote": "We must use time as a tool, not as a couch.",
+        "author": "John F. Kennedy"
+    },
+    {
+        "id": 177,
+        "quote": "Simplicity is the keynote of all true elegance.",
+        "author": "Coco Chanel"
+    },
+    {
+        "id": 178,
+        "quote": "Some day you will be old enough to start reading fairy tales again.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "id": 179,
+        "quote": "The most important things are the hardest to say, because words diminish them.",
+        "author": "Stephen King"
+    },
+    {
+        "id": 180,
+        "quote": "You should never take more than you give.",
+        "author": "Elton John"
+    },
+    {
+        "id": 181,
+        "quote": "Take a long pause …breathe and know that things are happening for you not to you.",
+        "author": "Ashton Kutcher"
+    },
+    {
+        "id": 182,
+        "quote": "It’s nice to be important, but it’s also important to be nice. Never forget that.",
+        "author": "Sacha Baron Cohen (Borat)"
+    },
+    {
+        "id": 183,
+        "quote": "You never really learn much from hearing yourself speak.",
+        "author": "George Clooney"
+    },
+    {
+        "id": 184,
+        "quote": "Doubt can motivate you, so don’t be afraid of it. Confidence and doubt are at two ends of the scale, and you need both. They balance each other out.",
+        "author": "Barbra Streisand"
+    },
+    {
+        "id": 185,
+        "quote": "Once you’ve accepted your flaws, no one can use them against you.",
+        "author": "George R.R. Martin"
+    },
+    {
+        "id": 186,
+        "quote": "A wise man can play the part of a clown, but a clown can’t play the part of a wise man.",
+        "author": "Malcom X"
+    },
+    {
+        "id": 187,
+        "quote": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+        "author": "Bruce Lee"
+    },
+    {
+        "id": 188,
+        "quote": "I don’t care that they stole my idea… I care that they don’t have any of their own.",
+        "author": "Nikola Tesla"
+    },
+    {
+        "id": 189,
+        "quote": "A fool thinks himself to be wise, but a wise man knows himself to be a fool.",
+        "author": "William Shakespeare"
+    },
+    {
+        "id": 190,
+        "quote": "Someone’s sitting in the shade today because someone planted a tree a long time ago.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 191,
+        "quote": "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.",
+        "author": "Isaac Newton"
+    },
+    {
+        "id": 192,
+        "quote": "To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.",
+        "author": "Nicolaus Copernicus"
+    },
+    {
+        "id": 193,
+        "quote": "There is nothing so useless as doing efficiently that which should not be done at all.",
+        "author": "Peter Drucker"
+    },
+    {
+        "id": 194,
+        "quote": "People are more impressed by the power of our example rather than the example of our power.",
+        "author": "Bill Clinton"
+    },
+    {
+        "id": 195,
+        "quote": "Honesty is the first chapter in the book of wisdom.",
+        "author": "Thomas Jefferson"
+    },
+    {
+        "id": 196,
+        "quote": "Doubt is not a pleasant condition, but certainty is absurd.",
+        "author": "Voltaire"
     }
 ]
