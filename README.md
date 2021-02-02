@@ -49,3 +49,5 @@ Options for the "getbyauthor(name, n)" function
  ## Need any help?
  Join my discord server!
  https://discord.gg/Q34NvFVmwW
+ Or you can contact me on discord
+ TakenKills#8990
