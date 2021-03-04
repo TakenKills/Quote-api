@@ -1,3 +1,4 @@
-const QuoteAPI = require('../dist/index');
+const QuoteAPI = require('../dist/index.js');
+const log = (string) => console.log(string);
 
-console.log(QuoteAPI.getbyauthor())
+if (QuoteAPI.getbyauthor(`Voltaire`, 2).filter(quote => quote.type === 'message')) log(`yourmom`)

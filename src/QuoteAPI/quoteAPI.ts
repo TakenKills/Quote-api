@@ -24,7 +24,7 @@ function randomN(quoteArray: object[], n: number) {
   const numberArray: number[] = Array.from(randomIndicesSet);
 
   return numberArray.map((num) => {
-    return quotes[num];
+    return quoteArray[num];
   });
 }
 
@@ -35,22 +35,40 @@ function randomTen() {
   );
 }
 
-function getbyauthor(name: string, n: number) {
-  const getByAuthor = randomN(
-    quotes.filter(
-      (quote: Quote) => quote.author.toLowerCase() === name.toLowerCase()
-    ),
-    n
-  );
+function getbyauthor(name: string, number: number) {
+  if (!name && !number)
+    throw new Error(
+      `randomquote-api --- You must provide an authors name in the first paramater and or a number in the second paramater.`
+    );
+  let getByAuthor: object[];
+  if (!number)
+    getByAuthor = quotes.filter(function (quote) {
+      return quote.author.toLowerCase() === name.toLowerCase();
+    });
+  else
+    getByAuthor = randomN(
+      quotes.filter(function (quote) {
+        return quote.author.toLowerCase() === name.toLowerCase();
+      }),
+      number
+    );
   if (getByAuthor.length === 0)
     throw new Error(
       `randomquote-api --- Couldn't find anyone with that name..`
     );
-  else return getByAuthor;
+  else {
+    if (getByAuthor.length < number)
+      getByAuthor.push({
+        type: `message`,
+        message: `I've only found ${getByAuthor.length} quotes written by ${name}.`,
+      });
+    return getByAuthor;
+  }
 }
 
 export = {
   randomQuote,
   randomTen,
   getbyauthor,
+  randomN,
 };

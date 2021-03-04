@@ -20,6 +20,12 @@ function randomN(quoteArray, n) {
 function randomTen() {
     return randomN(quotes_json_1["default"].filter(function (quotes) { return quotes.quote; }), 10);
 }
+/**
+ * 
+ * @param name String
+ * @param n Number
+ * @returns Quotes.
+ */
 function getbyauthor(name, n) {
     var getByAuthor = randomN(quotes_json_1["default"].filter(function (quote) { return quote.author.toLowerCase() === name.toLowerCase(); }), n);
     if (getByAuthor.length === 0)
