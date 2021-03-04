@@ -1,4 +1,3 @@
-const QuoteAPI = require('../src/index');
-const quotes = require('../src/QuoteAPI/quotes.json');
+const QuoteAPI = require('../dist/index');
 
-console.log(QuoteAPI.randomN(quotes, 10))
+console.log(QuoteAPI.getbyauthor())

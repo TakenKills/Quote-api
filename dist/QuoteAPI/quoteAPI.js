@@ -1,5 +1,8 @@
 "use strict";
-var quotes_json_1 = require("./quotes.json");
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+var quotes_json_1 = __importDefault(require("./quotes.json"));
 function randomQuote() {
     return quotes_json_1["default"][Math.floor(Math.random() * quotes_json_1["default"].length)];
 }
@@ -29,7 +32,6 @@ function getbyauthor(name, n) {
 }
 module.exports = {
     randomQuote: randomQuote,
-    randomN: randomN,
     randomTen: randomTen,
     getbyauthor: getbyauthor
 };
