@@ -1,9 +1,9 @@
 {
   "name": "randomquote-api",
-  "version": "3.5.4",
+  "version": "3.5.5",
   "description": "An api that gets random quotes.",
   "main": "./dist/index.js",
-  "types": "./src/index.d.ts",
+  "types": "./dist/quoteAPI.d.ts",
   "scripts": {
     "test": "node test/test.js"
   },
