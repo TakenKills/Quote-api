@@ -1,4 +1,4 @@
-import quotes from "./quotes.json";
+import quote from "./quotes.json";
 
 interface Quote {
   id: number;
@@ -6,11 +6,13 @@ interface Quote {
   author: string;
 }
 
-function randomQuote() {
+const quotes: Quote[] = quote;
+
+function randomQuote(): Quote {
   return quotes[Math.floor(Math.random() * quotes.length)];
 }
 
-function randomN(quoteArray: object[], n: number) {
+function randomN(quoteArray: Quote[], n: number): Quote[] {
   const limit = quoteArray.length < n ? quoteArray.length : n;
   const randomIndicesSet = new Set<number>();
 
@@ -23,12 +25,10 @@ function randomN(quoteArray: object[], n: number) {
 
   const numberArray: number[] = Array.from(randomIndicesSet);
 
-  return numberArray.map((num) => {
-    return quoteArray[num];
-  });
+  return numberArray.map((num) => quoteArray[num]);
 }
 
-function randomTen() {
+function randomTen(): Quote[] {
   return randomN(
     quotes.filter((quotes: Quote) => quotes.quote),
     10
@@ -40,9 +40,18 @@ function getbyauthor(name: string, number: number) {
     throw new Error(
       `randomquote-api --- You must provide an authors name in the first paramater and or a number in the second paramater.`
     );
-  let getByAuthor: object[];
+  let getByAuthor:
+    | Quote[]
+    | [
+        {
+          type: string;
+          message: string;
+        },
+        Quote
+      ];
+
   if (!number)
-    getByAuthor = quotes.filter(function (quote) {
+    getByAuthor = quotes.filter((quote) => {
       return quote.author.toLowerCase() === name.toLowerCase();
     });
   else
@@ -58,10 +67,9 @@ function getbyauthor(name: string, number: number) {
     );
   else {
     if (getByAuthor.length < number)
-      getByAuthor.push({
-        type: `message`,
-        message: `I've only found ${getByAuthor.length} quotes written by ${name}.`,
-      });
+      console.warn(
+        `I've only found ${getByAuthor.length} quotes written by ${name}.`
+      );
     return getByAuthor;
   }
 }
@@ -70,5 +78,4 @@ export = {
   randomQuote,
   randomTen,
   getbyauthor,
-  randomN,
 };
