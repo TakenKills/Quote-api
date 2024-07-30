@@ -29,22 +29,9 @@ const getbyauthor = Quotes.getbyauthor("J.R.R. Tolkien", 10);
 console.log(getbyauthor);
 ```
 
-## Stuck on [object Object] ?
-
-try mapping it!
-
-```js
-const Quotes = require("randomquote-api");
-const randomTen = Quotes.randomTen();
-
-console.log(randomTen.map((q) => q.quote).join("\n"));
-```
-
-this also works the same for the `getbyauthor()` function.
-
 ## Options
 
-For the quotes itself you can use
+For the quotes itself you can use:
 
 - **quote** : Get the quote.
 - **author** : Get who wrote/said the quote.
